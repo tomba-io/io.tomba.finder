@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Email Finder</string>
+    <string name="title_activity_main">Email Finder</string>
+    <string name="package_name">io.tomba.finder</string>
+    <string name="custom_url_scheme">io.tomba.finder</string>
+</resources>

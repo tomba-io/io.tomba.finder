@@ -1,0 +1,8 @@
+{
+  "appId": "io.tomba.finder",
+  "appName": "Email Finder",
+  "bundledWebRuntime": false,
+  "npmClient": "yarn",
+  "webDir": "dist",
+  "linuxAndroidStudioPath": "/home/moha/android-studio/bin/studio.sh"
+}
